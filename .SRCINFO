@@ -1,6 +1,6 @@
 pkgbase = vim-colors-catppuccin-git
 	pkgdesc = Catppuccin color themes for vim
-	pkgver = r131.0ab58f6
+	pkgver = r43.0600008
 	pkgrel = 1
 	url = https://github.com/catppuccin/vim
 	arch = any
